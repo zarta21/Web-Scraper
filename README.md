@@ -12,5 +12,5 @@ pip install requests-html
 pip install pandas
 ```
 
-# Inspared by [John Watson Rooney](https://www.youtube.com/c/JohnWatsonRooney/videos)
+Inspared by [John Watson Rooney](https://www.youtube.com/c/JohnWatsonRooney/videos)
 
